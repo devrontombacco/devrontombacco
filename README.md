@@ -23,3 +23,5 @@
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png" alt="terraform" width="40" height="40"/> </a> 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ansible.png" alt="terraform" width="40" height="40"/> </a> 
 </p>
+
+<!-- NB: find more icons here: https://github.com/marwin1991/profile-technology-icons?tab=readme-ov-file#%EF%B8%8F-cloud​​​​​ -->
