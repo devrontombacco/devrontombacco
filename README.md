@@ -8,10 +8,7 @@
 - 📫 How to reach me **tombacco.devron@gmail.com**
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I spend way too much time troubleshooting Security Group errors (don't we all?!)
-
-<br>
 - 👨‍💻 All of my projects are available on my github
-  
 - 📝 Check out my blog [dtcloudnetworking.com](dtcloudnetworking.com)
 
 <h3 align="left">Languages and Tools:</h3>
