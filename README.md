@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Devron
 
- <h3> I'm a Cloud/DevOps guy </h3>
+ <h3> I work on infrastructure in cloud and devops, with a special focus on networking </h3>
 
 - 🔭 I’m currently working on some AWS projects. I like trying out different architectures, using different services and seeing how I can optimize set ups.
 - 🌱 I’m currently working working with Docker to understand app deployment
