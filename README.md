@@ -7,7 +7,7 @@
 - 💬 Ask me about Terraform. I'm using it every day.
 - 📫 How to reach me **tombacco.devron@gmail.com**
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I spend way too much time troubleshooting Security Group errors (don't we all?!)
+- ⚡ Fun fact: For a nerd I spend way too much time troubleshooting simple things, like Security Group errors :) 
 - 👨‍💻 All of my projects are available on my github
 - 📝 Check out my blog [dtcloudnetworking.com](dtcloudnetworking.com)
 
