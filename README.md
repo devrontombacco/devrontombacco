@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Devron
 
- <h3> I work on devops pipelines, as well as infrastructure in the AWS cloud My projects have a special focus on networking </h3>
+ <h3> I work on devops pipelines, as well as infrastructure in the AWS cloud. Most of my projects have a special focus on networking </h3>
 
 - 🔭 I’m currently working on some AWS projects. I like trying out different architectures, using different services and seeing how I can optimize set ups.
 - 🌱 I’m currently working working with Docker to understand app deployment
