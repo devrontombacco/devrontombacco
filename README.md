@@ -61,4 +61,4 @@ I'm a **DevOps engineer** focused on AWS cloud infrastructure, networking archit
 
 ---
 
-<p align="center"><i>"For a nerd I spend way too much time on Security Group errors 😅"</i></p>
+<p align="center"><i>"Security Group errors have taught me more about AWS networking than any tutorial ever did  😅"</i></p>
