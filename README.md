@@ -69,4 +69,12 @@ I'm a **DevOps engineer** focused on AWS cloud infrastructure, networking archit
 
 ---
 
+### Certifications 
+
+- CCNA
+- AWS Cloud Practitioner
+- Terraform Associate
+
+---
+
 <p align="center"><i>"Security Group errors have taught me more about AWS networking than any tutorial ever did  😅"</i></p>
