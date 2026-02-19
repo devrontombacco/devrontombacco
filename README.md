@@ -28,16 +28,24 @@ I'm a **DevOps engineer** focused on AWS cloud infrastructure, networking archit
 
 ### ☁️ Core Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png" alt="Terraform" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ansible.png" alt="Ansible" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPN-0A66C2?style=for-the-badge&logo=wireguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Design-6C63FF?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-FF6F00?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ---
@@ -52,12 +60,12 @@ I'm a **DevOps engineer** focused on AWS cloud infrastructure, networking archit
 
 ### 🏗️ Featured Projects
 
-> *(Pin your best repos on GitHub, and optionally list them here)*
-
 | Project | Description | Stack |
 |---|---|---|
 | `flask-cicd-dual-env-deploy` | CI/CD pipeline with dual environment deployment | AWS, Docker, GitHub Actions |
 | `multi-region-transit-gateway` | Multi-region VPC peering with BGP routing | AWS, Terraform, Ansible |
+| `dual-region-tgw-peering` | multi-region AWS infrastructure with automated configuration management | AWS, Terraform, Ansible |
+| `transit-gateway-vpn-strongswan` | VPCs connected through a Transit Gateway connected to on-prem via Site-to-Site VPN | AWS, Terraform, Strongswan |
 
 ---
 
